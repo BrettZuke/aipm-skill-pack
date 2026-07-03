@@ -47,4 +47,5 @@ Manual alternative: download this repo as a zip (green Code button, Download ZIP
 - carousel-builder renders real 1080x1350 PNG slides using your installed Chrome. First run, tell it your client's brand colors and handle and it remembers.
 - daily-intel can run on a schedule every morning. Ask Claude to "set up the daily-intel cron" after the Telegram step.
 - Stack them: idea-hacker to plan the week, viral-hook-creator for openers, carousel-builder to design, avoid-ai-writing as the final pass.
+- Claude Code needs a paid Claude plan (Pro or above) when you sign in.
 - Re-running install.sh is safe. It updates every skill to the latest version in this repo.
