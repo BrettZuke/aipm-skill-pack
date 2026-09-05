@@ -1,3 +1,15 @@
+# This moved
+
+Everything here now lives inside **[aipm-operator-stack](https://github.com/BrettZuke/aipm-operator-stack)**, in `skills`.
+
+Clone that instead. It is kept up to date and scanned before every push; this copy is not.
+
+```bash
+git clone https://github.com/BrettZuke/aipm-operator-stack.git
+```
+
+---
+
 # AIPM Skill Pack
 
 15 Claude Code skills for content, copy, lead generation, local SEO, and premium client sites. Nothing here overlaps the starter pack you installed from ai-partner-method-claude-starter, this is all new. Install once, then just ask Claude for the thing you want. Claude picks the right skill automatically.
